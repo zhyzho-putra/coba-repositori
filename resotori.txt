@@ -1,0 +1,4 @@
+resolusi
+-belajar html
+-belajar css
+-belajar js
