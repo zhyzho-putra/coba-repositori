@@ -1,5 +1,5 @@
 resolusi
 -belajar html
--belajar css
+-belajar java
 -belajar js
 -belajar mandarin
