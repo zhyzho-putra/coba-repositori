@@ -3,8 +3,10 @@ rencana konten
 -java script
   *es56
   *framework java
-   ^angular
+   ^vue
+Struktur Data Dasar
 -html
 -php
  ^laravel
 -vlogs
+-python
